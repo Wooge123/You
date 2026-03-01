@@ -22,12 +22,10 @@
         </intent>
     </queries>
 
-    <application
-        android:icon="@mipmap/ic_launcher"
-        android:label="智慧通."
-        android:requestLegacyExternalStorage="true"
-        android:roundIcon="@mipmap/ic_launcher"
-        android:supportsRtl="true">
+    
+        <application
+    android:icon="@android:drawable/sym_def_app_icon"
+    android:label="智慧通">
 
 
         <service
